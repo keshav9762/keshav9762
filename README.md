@@ -39,8 +39,8 @@
 
 ## 🚀 Projects
 
-- **[Food Ordering System](https://github.com/rajan21045/Food-Ordering-System)**  
-  A responsive front-end food delivery UI made with HTML & CSS.
+- **[CarePoint Hostipal](https://github.com/keshav9762/CarePoint-Hostipal)**  
+  A responsive website for Hospital appointment system.
 
 - **[Java Swing Book Management Application](https://github.com/rajan21045/Java-Swing-Book-Management-Application)**  
   A desktop application built with Java Swing & MySQL (CRUD).
