@@ -52,6 +52,9 @@
 
 ## 🚀 Projects
 
+- **[Hotel Cancellation Dashboard](https://github.com/keshav9762/excel-hotel-cancellation-dashboard)**  
+  An Excel-based data analysis and dashboard project exploring hotel booking trends and cancellation patterns.
+
 - **[CarePoint Hospital](https://github.com/keshav9762/CarePoint-Hostipal)**  
   A responsive website for a Hospital appointment booking system.
 
